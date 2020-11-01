@@ -6,3 +6,5 @@ The objective is the creation of a model for predicting the risk of payment defa
 
 Several classifiers will be generated and tested by applying the different classification methods and adjusting the parameters to optimize the results. Only the most efficient classifier will be kept, knowing that the main objective is to minimize financial risks by avoiding wrongly granting a loan.
 The selected classifier will then be applied to the dataset to be predicted in order to predict for each client whether he is likely to default (default class = Yes) or not (default class = No).
+
+(This project is in French)
