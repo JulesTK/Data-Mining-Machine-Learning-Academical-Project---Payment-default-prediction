@@ -8,3 +8,5 @@ Several classifiers will be generated and tested by applying the different class
 The selected classifier will then be applied to the dataset to be predicted in order to predict for each client whether he is likely to default (default class = Yes) or not (default class = No).
 
 (This project is in French)
+
+I did this project with BOGLIETTO Lucas as an Academical Project during our Master's degree in Mathematical Engineering at Université Côte d'Azur.
